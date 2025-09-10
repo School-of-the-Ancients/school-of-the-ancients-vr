@@ -1,3 +1,5 @@
+![School of the Ancients banner](assets/School-of-the-ancients-banner.png)
+
 # School of the Ancients (VR / Meta Horizon Worlds)
 
 **A remixable VR museum where you can meet Cleopatra, Galileo, and Leonardo da Vinci.**  
