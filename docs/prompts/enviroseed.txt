@@ -1,2 +1,0 @@
-seed: 341 
-env size: 
