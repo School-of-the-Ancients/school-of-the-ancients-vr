@@ -1,4 +1,4 @@
-📘 Project Summary
+📘 Project Summary 
 
 School of the Ancients VR is an AI-powered, immersive learning platform where students engage with history’s greatest thinkers, scientists, and leaders inside a dynamic VR classroom.
 
