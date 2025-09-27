@@ -45,7 +45,7 @@ This world was inspired by *Cosmos: Seven Wonders of the New World* — a vision
 ## Project History
 - **2020 — Inspiration:** *Cosmos: Seven Wonders of the New World* → idea for a future World’s Fair with simulated historical figures.  
 - **2024 — Google Gemini API Developer Competition (web prototype):** https://github.com/thetopham/schooloftheancients  
-- **2025 — Meta Worlds (this VR build):** https://github.com/thetopham/school-of-the-ancients-vr
+- **2025 — Meta Worlds (this VR build):** https://horizon.meta.com/worlds/1459334171856325
 
 ---
 
