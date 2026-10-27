@@ -1,3 +1,8 @@
+> **Repository status:** Separate historical Horizon Worlds implementation. See [rights and reuse](RIGHTS.md).
+> For current application development, start with [Professor](https://github.com/School-of-the-Ancients/sota-professor)
+> and [Matrix](https://github.com/School-of-the-Ancients/matrix-loading-operator).
+> Earlier descriptions below refer to this repository's own checkpoint; existing license grants remain intact.
+
 <p align="center">
   <img src="assets/School-of-the-ancients-banner.png" alt="School of the Ancients banner" width="100%">
 </p>
