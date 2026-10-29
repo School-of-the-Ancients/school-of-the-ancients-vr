@@ -1,5 +1,13 @@
 # Rights, provenance, and reuse
 
+## Owner
+
+School of the Ancients LLC, a Colorado limited liability company formed 2026-10-28, is the owner and rights holder of the original code, content, and assets in this repository.
+
+Maintainer contact: [thetopham](https://github.com/thetopham) (GitHub @thetopham).
+
+This statement covers original material in this repository. It does not revoke the existing MIT grant for code or the CC BY grant for models and art, and it does not claim third-party material, imported templates, likenesses, voices, or Horizon Worlds platform content.
+
 ## Repository role
 
 This is a separate Horizon Worlds prototype. Separate historical Horizon Worlds implementation.
@@ -24,11 +32,10 @@ permissions or imply a complete audit of every earlier distribution.
 
 ## Attribution and separate rights
 
-Project attribution: **School of the Ancients**, maintained by
-[thetopham](https://github.com/thetopham). Retain each actual author's required
-copyright, permission, and attribution notices. This project attribution is
-not an assertion of sole authorship, a copyright assignment, or ownership of
-third-party material.
+Project attribution: **School of the Ancients**, owned by School of the Ancients LLC
+and maintained by [thetopham](https://github.com/thetopham). Retain each actual
+author's required copyright, permission, and attribution notices. Ownership of
+original material in this repository is not a claim to third-party material.
 
 The README identifies a Horizon Worlds example as an input and discusses
 platform-generated/exported assets. Keep source-specific and platform terms
@@ -59,4 +66,4 @@ agreements, and third-party inputs with qualified counsel.
 
 See the [organization licensing policy](https://github.com/School-of-the-Ancients/.github/blob/9b4090df605b70ce313c198179662e19d3db568d/LICENSING.md) and
 [rights-review checklist](https://github.com/School-of-the-Ancients/.github/blob/9b4090df605b70ce313c198179662e19d3db568d/RIGHTS_REVIEW.md). These explanatory notices
-do not revoke existing grants, override legal exceptions, or guarantee ownership.
+do not revoke existing grants or override legal exceptions.
