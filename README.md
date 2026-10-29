@@ -9,6 +9,8 @@
 
 # School of the Ancients (VR / Meta Horizon Worlds)
 
+**Owner:** School of the Ancients LLC
+
 **A remixable VR museum where you can meet Cleopatra, Galileo, and Leonardo da Vinci.**  
 Built in 48 hours for the Meta Horizon Worlds AI NPC Remix competition (2025).
 
